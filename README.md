@@ -2,4 +2,4 @@
 
 Project Name : Opencart E-com wedsite
 
-Testcase created by myself.
+Testcase prepared by myself.
